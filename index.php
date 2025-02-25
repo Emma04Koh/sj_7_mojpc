@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1> Prvá stránka </h1>
+    <h2> Druhý nadpis </h2>
 </body>
 </html>
